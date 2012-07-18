@@ -19,7 +19,7 @@ Download the plugin to +plugins+
 
 1. Setup Redmine locally
 2. Create a Heroku application for Redmine
-3. Run the +rake heroku:setup+
+3. Run the rake heroku:setup
 4. Push your git repository and the setup changes to your Heroku application
 5. Migrate or push your database to Heroku
 
