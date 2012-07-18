@@ -13,13 +13,13 @@ A copy of the plugin can be downloaded from {GitHub}[http://github.com/edavis10/
 
 == Installation and Setup
 
-Download the plugin to +vendor/plugins+
+Download the plugin to +plugins+
 
 == Usage
 
 1. Setup Redmine locally
 2. Create a Heroku application for Redmine
-3. Run the +heroku:setup+ rake task.
+3. Run the +rake heroku:setup+
 4. Push your git repository and the setup changes to your Heroku application
 5. Migrate or push your database to Heroku
 
